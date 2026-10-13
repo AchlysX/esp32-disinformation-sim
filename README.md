@@ -1,7 +1,7 @@
 # LMI — Simulateur de Propagation de Désinformation
 
-> Projet réalisé dans le cadre du cours **Lutte contre la Manipulation de l'Information (LMI)**  
-> Encadrant : Walter PERETTI — ESILV / Pôle Léonard de Vinci  
+> Projet réalisé dans le cadre du Projet Pi² à l'ESILV en collaboration avec le Campus Cyber
+ **Lutte contre la Manipulation de l'Information (LMI)**  
 > Sujet : *Étude du phénomène d'adhésion à une information*
 
 ---
